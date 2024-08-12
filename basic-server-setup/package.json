@@ -1,0 +1,24 @@
+{
+  "name": "basic-server-setup",
+  "version": "1.0.0",
+  "description": "This is the first lession in Backend with JavaScript journey",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript",
+    "nodejs",
+    "expressjs",
+    "server",
+    "apis"
+  ],
+  "author": "Muhammad Naeem Tahir",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
